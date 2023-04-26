@@ -2,7 +2,24 @@ html {
     font-family: 'Roboto Mono', monospace;
     background-color: #A0C3D2;
 }
+
 h1 {
-    color:#EAE0DA;
+    color: #EAE0DA;
     font: 'Roboto Mono';
+}
+
+h2 {
+    color: antiquewhite;
+    font: 'Roboto Mono';
+}
+
+p {
+    border-style: solid;
+    padding: 20px;
+    border-width: 2px;
+    border-color: #EAE0DA;
+}
+
+.jamira {
+    width: 50%;
 }
