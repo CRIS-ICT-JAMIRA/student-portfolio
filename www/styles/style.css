@@ -8,6 +8,7 @@ h1 {
     font: 'Roboto Mono';
     text-align: center;
     font-display: flex;
+    font-size: 30px;
 }
 
 h2 {
@@ -35,6 +36,18 @@ p {
     text-decoration: none;
     padding: 5px 20px;
     font-size: 16px;
+    border-style:double;
+    border-color: #F8F0C6;
 }
 
+h3,h4,h5,h6{
+    color: #EAE0DA;
+    font: 'Roboto Mono';
+    font-display: flex;
+    font-size: 20px;
+}
+
+.acticities-pan-asia {
+    width: 300%;
+}
     
